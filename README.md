@@ -17,8 +17,8 @@
 </div>
 
 ## Project
-### 장소 기반 SNS 서비스 HeatPick(2023.11 ~ 2024.01)
+### 위치 기반 SNS 서비스 HeatPick (2023.11 ~ 2024.01)
 - Team: iOS 3인 + Backend 2인
 - Role: Backend
 - GitHub: https://github.com/boostcampwm2023/iOS04-HeatPick
-- Stack: `Nest`, `TypeORM`, `MySQL`, `Ncloud`, `Docker`, `GitHub Actions`, `Naver Maps API`
+- Stack: `NestJS`, `TypeORM`, `MySQL`, `Ncloud`, `Docker`, `GitHub Actions`, `Naver Maps API`
