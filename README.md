@@ -23,7 +23,7 @@
 - GitHub: https://github.com/boostcampwm2023/iOS04-HeatPick, https://github.com/JeongSH1/heatpick-notification
 - Stack: `NestJS`, `TypeORM`, `MySQL`, `Ncloud`, `Docker`, `GitHub Actions`, `Naver Maps API`
 
-### 인공지능을 활용하여 이슈 접근성을 높인 서비스 ISSUER
+### 인공지능을 활용하여 이슈 접근성을 높인 서비스 ISSUER (2024.07 ~ 2024.08)
 - Team: 개인프로젝트
 - Github: https://github.com/Issuer-2024/issuer
 - Stack: `FastAPI`, `Redis`, `Ncloud`, `Hyper CLOVA`, `Docker-Compose`
